@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$USER_HOME$/Desktop/ssm/SpringBoot/workSpace/reggie_take_out/pom.xml" />
+        <option value="$USER_HOME$/Desktop/ssm/SpringBoot/workSpace/reggie_take_out_01/pom.xml" />
+        <option value="$USER_HOME$/Desktop/ssm/Redis/代码/springdataredis_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
